@@ -3,9 +3,9 @@
 
 - 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
-- 🔄 Last Project [Python Discord Bot](https://github.com/migueldsants/PythonDiscordBot)
+- 🔄 Last Project [Python Discord Bot](https://github.com/migueldsants/PomoTS-CLI)
   
-- 🌱 I’m currently learning **OracleDB**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **anything**
 
