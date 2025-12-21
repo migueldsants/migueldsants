@@ -3,7 +3,7 @@
 
 - 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
-- 🔄 Last Project [Python Discord Bot](https://github.com/migueldsants/PomoTS-CLI)
+- 🔄 Last Project [PomoTS CLI](https://github.com/migueldsants/PomoTS-CLI)
   
 - 🌱 I’m currently learning **Typescript**
 
