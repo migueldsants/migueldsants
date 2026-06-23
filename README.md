@@ -3,7 +3,7 @@
 
 - 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
-- 🔄 Last Project [Mini-Go-Stock-ERP](https://github.com/migueldsants/Mini-Go-Stock-ERP)
+- 🔄 Last Project [Mini Go Stock ERP](https://github.com/migueldsants/Mini-Go-Stock-ERP)
   
 - 🌱 I’m currently learning **GOLANG**
 
