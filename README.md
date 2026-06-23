@@ -3,9 +3,9 @@
 
 - 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
-- 🔄 Last Project [PomoTS CLI](https://github.com/migueldsants/PomoTS-CLI)
+- 🔄 Last Project [Mini-Go-Stock-ERP(https://github.com/migueldsants/Mini-Go-Stock-ERP)
   
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **GOLANG**
 
 - 💬 Ask me about **anything**
 
